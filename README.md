@@ -1,15 +1,15 @@
-## Edunet_week2
-# Spotify clone using MERN [internship EY GDS EDUNET AICTE] week 
+# Edunet_week2
+## Spotify clone using MERN [internship EY GDS EDUNET AICTE] week 
 
 
-# signin page
+## signin page
 ![](./signin.png)
 
-# home
+## home
 ![](./home.png)
 
-# Liked songs
+## Liked songs
 ![](./liked.png)
 
-# Playlisted song
+## Playlisted song
 ![](./playlist.png)
